@@ -15,7 +15,7 @@
     * Lesson Learned: Conflict resolution is not about proving who’s right but finding the best solution for the team and project. By staying professional, gathering data, and 
       fostering open discussions, you can turn conflicts into productive collaborations.
 
-   * Scenario:Code Quality vs. Deadline Pressure
+   * **Scenario: Code Quality vs. Deadline Pressure**
      * You're working with a teammate on the backend API, and they frequently commit code that works but lacks proper documentation, has inefficient queries, or contains unoptimized 
        logic. You suggest improving the code quality, but they argue that meeting the deadline is more important.
      * Conflict: Your teammate sees your insistence on clean code as a delay, while you see their rushed approach as technical debt that will cause problems later.
@@ -24,6 +24,17 @@
          * You propose implementing code reviews to balance speed and quality.
          * You demonstrate how small optimizations improve performance and reduce future debugging time.
      * Lesson Learned: Balancing speed and quality is key in software development. Finding a compromise ensures deadlines are met without sacrificing long-term maintainability.
+   * **Scenario: Feature Prioritization Dispute**
+     * Situation: You're in a sprint planning meeting, and you believe optimizing the database indexing should be a priority, but another teammate argues that developing a new chat 
+       feature is more urgent.
+     * Conflict: You believe scalability concerns should be addressed early, while your teammate insists on delivering user-facing features first.
+     * Resolution:
+        * You bring in data, showing that slow queries are already affecting some users.
+        * You suggest a compromise: dedicating part of the sprint to indexing while also making progress on the chat feature.
+        * The team collectively decides based on impact vs. urgency.
+     * Lesson Learned: Prioritization should be driven by data, not just opinions. Finding a balance between backend optimizations and user-facing features ensures long-term success.
+
+    
  
       
   
