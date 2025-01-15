@@ -86,6 +86,27 @@
         * Caching and read replicas are game changers for high-read workloads.
         * Planning for scalability early prevents major rework later.
         * Collaboration with backend and DevOps teams is essential when optimizing large systems.
+    Scenario 3: Database Migration Without Downtime
+  * **Situation: We needed to migrate a PostgreSQL database with millions of users to a NoSQL without downtime. The challenge was that the system had to stay operational during the 
+    migration.**
+    * Challenges:
+        * Traditional migrations would cause service interruptions.
+        * Foreign key constraints and indexes could break if not handled properly.
+        * Queries had to be backward-compatible with both old and new db.
+    * Solution:
+        * Dual Writes – Temporarily wrote data to both the old and new schema to ensure consistency.
+        * Read from Both Databases – API calls were modified to read from both until the transition was fully complete.
+        * Background Migration Scripts – Used batch processing to migrate existing data gradually instead of all at once.
+        * Feature Flags for Rollback – Implemented toggle-based rollbacks in case anything failed.
+   * Outcome:
+       * Migration completed without any downtime.
+       * No data was lost, and queries remained performant.
+       * The approach became a standard practice for future database changes.
+  * Lesson Learned:
+      * Zero-downtime migrations require careful planning and rollback strategies.
+      * Writing to both old and new schemas during the transition ensures data integrity.
+      * Batch processing prevents performance bottlenecks during large migrations.     
+  
 
 
 
