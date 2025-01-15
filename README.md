@@ -1,5 +1,5 @@
 # behavioural-discussion
-1. **Tell me about a situation where you had a conflict with a teammate **
+1. **Tell me about a situation where you had a conflict with a teammate**
    * Scenario
      * Imagine you're working on a software development team building a high-scalability social media platform (like your Facebook clone). You're responsible for designing the database 
        schema, while another teammate is in charge of the backend API. Your teammate insists on using a NoSQL database because they believe it will be easier to scale, but you've done 
