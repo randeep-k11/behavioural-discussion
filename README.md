@@ -107,7 +107,7 @@
       * Writing to both old and new schemas during the transition ensures data integrity.
       * Batch processing prevents performance bottlenecks during large migrations.
    
-4. How do you manage that every person gets task in which there is a learning and if any person wants some specific task then how will you assign?
+4. **How do you manage that every person gets task in which there is a learning and if any person wants some specific task then how will you assign?**
    * Managing Learning Opportunities:
      * Understanding Strengths and Interests:
         * I take time to understand each team member's current skills, areas they want to grow in, and their career goals. This helps me align tasks with both organizational needs and           individual growth.
@@ -131,7 +131,7 @@
      * Setting Expectations:
        * I make sure that team members understand the importance of balancing learning opportunities with meeting team objectives, so everyone stays motivated and engaged.
   
-5. How will you convince if your approach is better than your colleagues approach’s?
+5. **How will you convince if your approach is better than your colleagues approach’s?**
    * Understand Their Perspective First
      * I start by actively listening to my colleague’s approach, asking clarifying questions to fully understand their reasoning. This ensures they feel heard and valued, which sets 
        the tone for a constructive discussion.
