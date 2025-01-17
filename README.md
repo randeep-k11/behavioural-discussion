@@ -105,8 +105,32 @@
   * Lesson Learned:
       * Zero-downtime migrations require careful planning and rollback strategies.
       * Writing to both old and new schemas during the transition ensures data integrity.
-      * Batch processing prevents performance bottlenecks during large migrations.     
+      * Batch processing prevents performance bottlenecks during large migrations.
+   
+4. How do you manage that every person gets task in which there is a learning and if any person wants some specific task then how will you assign?
+   * Managing Learning Opportunities:
+     * Understanding Strengths and Interests:
+        * I take time to understand each team member's current skills, areas they want to grow in, and their career goals. This helps me align tasks with both organizational needs and           individual growth.
   
+     * Rotating Responsibilities:
+        * I ensure tasks are rotated periodically so everyone gets exposure to new challenges. For example, if someone has been working on development, I might give them a chance to 
+          handle testing or design to expand their skill set.
+  
+     * Providing Guidance:
+        * When assigning a task that involves learning, I provide the necessary resources, mentorship, or training to set them up for success. I also encourage collaboration so team 
+          members can learn from one another.
+
+     * Assigning Specific Tasks:
+       * Open Communication:
+          * If someone expresses interest in a specific task, I encourage them to discuss it with me. I ensure the request aligns with project goals and timelines.
+  
+     * Balancing Interests and Priorities:
+       * While accommodating their request, I also balance the workload to ensure fairness among the team. For example, if multiple people want the same task, I might split 
+         responsibilities or assign the task to the most relevant skillset while giving others opportunities in the next cycle.
+    
+     * Setting Expectations:
+       * I make sure that team members understand the importance of balancing learning opportunities with meeting team objectives, so everyone stays motivated and engaged.
+    
 
 
 
