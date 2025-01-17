@@ -130,7 +130,23 @@
     
      * Setting Expectations:
        * I make sure that team members understand the importance of balancing learning opportunities with meeting team objectives, so everyone stays motivated and engaged.
-    
+  
+5. How will you convince if your approach is better than your colleagues approach’s?
+   * Understand Their Perspective First
+     * I start by actively listening to my colleague’s approach, asking clarifying questions to fully understand their reasoning. This ensures they feel heard and valued, which sets 
+       the tone for a constructive discussion.
+   * Present My Approach with Evidence
+    * I clearly explain the reasoning behind my approach, supported by data, examples, or past experiences that demonstrate its effectiveness.
+   * Compare Approaches Objectively
+    * I lay out both approaches side-by-side and discuss the pros and cons of each.
+    * This helps us evaluate the impact on timelines, resources, team dynamics, and overall success objectively, rather than relying on opinions.
+   * Focus on Collaboration, Not Competition
+     * I ensure the conversation is framed around finding the best solution, not about proving who’s right. I might even suggest a hybrid approach if it brings the best of both ideas 
+       together.
+   * Accept Feedback Gracefully
+     * If my colleague or team still believes their approach is better, I remain flexible and open to trying it. Ultimately, the goal is the success of the project, not personal 
+       validation.
+  
 
 
 
