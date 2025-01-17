@@ -146,7 +146,8 @@
    * Accept Feedback Gracefully
        * If my colleague or team still believes their approach is better, I remain flexible and open to trying it. Ultimately, the goal is the success of the project, not personal 
        validation.
-6.**Is there comes a scenario where there is an delay of task and what way you have taken to improve your mistakes and what are the learnings from it?**
+
+6. **Is there comes a scenario where there is an delay of task and what way you have taken to improve your mistakes and what are the learnings from it?**
   * **Scenario of Delay**
       * During one project, we faced a delay because of underestimated task complexity and a lack of clear communication regarding dependencies. For example, a module I was working on         required input from another team, but the handoff was delayed, impacting my timeline.
 
@@ -157,12 +158,12 @@
         continue their work without waiting for the entire task to be completed.
       * **Leveraging Additional Support:** If the workload was too high to recover on time, I didn’t hesitate to request additional resources or involve teammates to divide tasks 
         effectively.
-  * **Improvements and Learnings: **
-      * Proactive Planning: I started paying more attention to potential bottlenecks and task dependencies during project planning. For future tasks, I made sure to build buffer time 
-        for high-risk activities. 
-      * Regular Checkpoints: I implemented more frequent status updates and check-ins with stakeholders to identify risks early.
-      * Clear Documentation
-      * Focus on Root Cause Analysis 
+  * **Improvements and Learnings:**
+      * **Proactive Planning:** I started paying more attention to potential bottlenecks and task dependencies during project planning. For future tasks, I made sure to build buffer   
+        time for high-risk activities. 
+      * **Regular Checkpoints**: I implemented more frequent status updates and check-ins with stakeholders to identify risks early.
+      * **Clear Documentation**
+      * **Focus on Root Cause Analysis**
 
 
 
